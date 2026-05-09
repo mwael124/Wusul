@@ -15,6 +15,7 @@ https://www.figma.com/design/xvNujjBGTpXfThL9akFwOK/Wusul-Project?node-id=0-1&t=
 2- ملف آخر يتضمن وصف وفكرة المشروع بشكل واضح.
 
 لينك: https://drive.google.com/file/d/1ABe9mhJlh9S9IGBkJbcebOzgmjsnKw60/view?usp=sharing
-
+[Team Member.pdf](https://github.com/user-attachments/files/27553214/Team.Member.pdf)
+[Project Description.pdf](https://github.com/user-attachments/files/27553215/Project.Description.pdf)
 
 
