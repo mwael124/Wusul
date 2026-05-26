@@ -11,4 +11,6 @@ https://www.figma.com/design/xvNujjBGTpXfThL9akFwOK/Wusul-Project?node-id=0-1&t=
 [Team Member.pdf](https://github.com/user-attachments/files/27904446/Team.Member.pdf)
 
 
+Case Study Link:
+https://www.behance.net/gallery/250003277/Wusul-App-_-
 
